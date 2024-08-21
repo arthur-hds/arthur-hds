@@ -31,6 +31,10 @@
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   
+ <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+ <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
@@ -39,5 +43,7 @@
 
 ## Contact:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthur-henrique-de-souza-4b8091244/)](https://www.linkedin.com/in/arthur-henrique-de-souza-4b8091244/)
+
+<span>arthurhenriquedsouza@gmail.com</span>
 
 
