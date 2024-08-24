@@ -14,8 +14,24 @@
 - OneTick
   >A Python project designed to automate the scheduling and sending of messages, enhancing efficiency and productivity.
 
+Technology:
+- Python;
+- PyQt;
+- Selenium;
+- Windows ScheduleTask.
+
+
 - SwiftFlow
   > A Spring Boot project aimed at streamlining order management, integrating a comprehensive system for handling providers and clients.
+
+Technology:
+- Java;
+- Spring Boot;
+- Hibernate;
+- Spring Security;
+
+
+
   
 <br>
 
