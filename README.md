@@ -20,6 +20,8 @@ Technology:
 - Selenium;
 - Windows ScheduleTask.
 
+---
+
 
 - SwiftFlow
   > A Spring Boot project aimed at streamlining order management, integrating a comprehensive system for handling providers and clients.
