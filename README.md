@@ -31,6 +31,7 @@ Technology:
 - Spring Boot;
 - Hibernate;
 - Spring Security;
+- Angular.
 
 
 
