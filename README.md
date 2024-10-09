@@ -1,6 +1,6 @@
 ## Welcome to my Profile 👋
 
-### Hello! I'm Arthur, a software engineering student with a passion for technology and continuous learning. On this profile, I showcase various projects that I work on for self-improvement and to explore new technologies.
+### Hello! I'm Arthur, a software engineering student with a passion for technology and continuous learning. On this profile, I showcase various projects that I work on for self-improvement and to explore new technologies. I did the Entra21 course in 2022 to study Python. Also completed the IT course at SENAI in 2023.
 
 
 ![arthur-hds's Stats](https://github-readme-stats.vercel.app/api?username=arthur-hds&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
