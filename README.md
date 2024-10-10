@@ -16,7 +16,7 @@
 
 Technology:
 - Python;
-- PyQt;
+- PyQt5;
 - Selenium;
 - Windows Task Scheduler.
 
