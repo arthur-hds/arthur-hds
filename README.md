@@ -12,7 +12,7 @@
 
 
 - OneTick
-  >A Python project designed to automate the scheduling and sending of messages, enhancing efficiency and productivity.
+  >A Python project designed to automate the scheduling and sending of WhatsApp messages, enhancing efficiency and productivity.
 
 Technology:
 - Python;
